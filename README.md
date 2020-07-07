@@ -69,10 +69,10 @@ Manufacturer Usage Descriptions, a file containing YANG-based JSON that describe
 #### MFA
 Multi-factor Authentication
 #### MDR
-N/A
+Manage Detection and Response, in most of the cases refer to a company that provides manage services using endpoint or network based technology. Recently many cyber security vendors created their own MDR services  
 ## N
 #### NTA/NBA
-Network traffic analysis/ Network behavior Analysis
+Network Traffic Analysis/ Network Behavior Analysis: Devices designed to monitor traffic via mirror port or via inline control and provide traffic analysis and user behavior based on network traffic 
 #### NOC
 Network Operations Center, NOC is a central point for software distribution and updating, performance monitoring, coordination with affiliated networks, network troubleshooting, and router and domain name management.
 #### NIC
@@ -122,7 +122,7 @@ Software Composition Analisys
 #### SBOM
 Software bill of materials, includes analisys of all the software running in the system, fingerprinting the files and libraries. Some of the SBOMs can include data about hardware, vulnerabilities, credentials, certificates, keys etc.
 #### SASE
-N/A
+ Secure Access Service Edge, a term defined by Gartner in 2019 to represent many security functionalities under one umbrella, focuses on security as a service, and there is network component responsible for bringing the traffic to the as a service part. Terms such as CASB, SWG/CSWG, ZTA/SDP. Firewall as a Service, IAM, SDWAN, DLP, DNS security, and many more.
 ## U
 #### User-id
 User identification
@@ -152,3 +152,6 @@ Vulnerability assesment, done on the software source code or a binary to determi
 ## X
 #### x.509
 In cryptography, X.509 is a standard defining the format of public key certificates. X.509 certificates are used in many Internet protocols, including TLS/SSL, which is the basis for HTTPS, the secure protocol for browsing the web. They are also used in offline applications, like electronic signatures. RFC [2459](https://tools.ietf.org/html/rfc2459) [4158](https://tools.ietf.org/html/rfc4158) [5280](https://tools.ietf.org/html/rfc5280)
+## Z
+#### ZTNA
+Zero Trust Network Access (ZTNA) solutions, also referred to as a software-defined perimeter or SDP, are used to provide secure access to private applications without allowing users access to enterprise networks. They are often described as a replacement for traditional technologies like  SSL/IPSEC VPN, and introduce various methods of authentication to remain identity and context aware of users.
