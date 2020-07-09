@@ -5,6 +5,10 @@ Note: Some acronyms are not strictly cybersecurity but are related and essential
 ## A
 #### Application Control
 NGFW technology to identify and then block/allow Internet applications
+#### AWS 
+Amazon Web Services that provides Infrastructure as a service
+#### Azure
+Microsoft Azure, commonly referred to as Azure, is a cloud computing service, It provides software as a service, platform as a service and infrastructure as a service
 #### Always On
 Tunneling all the traffic towards a gateway
 #### AV
@@ -13,6 +17,13 @@ Anti-Virus
 Advanced Threat Protection
 #### API
 Application programming interface
+## B
+#### Browser Isolation
+Service that runs a remote browser and provides streaming or "read-only" type service for the end-user, such capability isolating the user from any internet harm while browsing 
+#### BYOD
+Bring your own device
+#### Bandwidth shaping
+Technology to control the amount of traffic to certain sites, mainly used to control streaming services to control or guarantee such services  
 ## C
 #### CSWG
 Cloud Security Web Gateway
@@ -20,9 +31,8 @@ Cloud Security Web Gateway
 Cloud Access Security Broker
 #### CA
 Certification authority
-## B
-#### BYOD
-Bring your own device
+#### CSPM 
+Cloud Security Posture Management,technology to deisgn to help compaines to secure their IaaS configuraiton
 ## E
 #### EPP
 Endpoint Protection Platform, most of the time refers to traditional Anti-Virus companies
@@ -42,13 +52,15 @@ Domain Controller or Data Center
 ## G
 #### GRC
 Governance, risk management and compliance (GRC) is the term covering an organization's approach across these three practices: Governance, risk management, and compliance.
+#### GCP
+Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products
 ## I
 #### IoT
 Internet of Things
 #### IoMT
 Internet of Medical Things
-#### IaaS
-Infrastructure as a Service
+####  IaaS 
+Infrastructure as a service are mainly public cloud services , such as AWS,AZURE, GCP
 #### IPSEC
 Internet Protocol Security — Main technology to encrypt traffic between peers
 #### IPS
@@ -79,6 +91,8 @@ Network Operations Center, NOC is a central point for software distribution and 
 Network Interface Card, Network Interface Controller, Network Adaptor
 #### NGFW
 Next-generation firewall (Application control, User-ID, Parallel traffic inspection)
+#### NAC 
+Network access control is a method of enhancing the security of a private organizational network by restricting the availability of network resources to endpoint devices that comply with the organization’s security policy 
 ## P
 #### Public key
 Encryption key that can be shared with the world so they can encrypt data and send to me
@@ -86,6 +100,8 @@ Encryption key that can be shared with the world so they can encrypt data and se
 My secret key that I can use to decrypt data that was sent to me encrypted with the public key I shared with the world
 #### PaaS
 Platform as a Service
+#### PAM 
+Privileged password management is a type of password management used to secure the passwords for login IDs that have elevated security privileges.
 ## S
 #### Split tunneling
 Splitting of traffic between Remote gateway and Internet
@@ -122,7 +138,12 @@ Software Composition Analisys
 #### SBOM
 Software bill of materials, includes analisys of all the software running in the system, fingerprinting the files and libraries. Some of the SBOMs can include data about hardware, vulnerabilities, credentials, certificates, keys etc.
 #### SASE
- Secure Access Service Edge, a term defined by Gartner in 2019 to represent many security functionalities under one umbrella, focuses on security as a service, and there is network component responsible for bringing the traffic to the as a service part. Terms such as CASB, SWG/CSWG, ZTA/SDP. Firewall as a Service, IAM, SDWAN, DLP, DNS security, and many more.
+ Secure Access Service Edge, a term defined by Gartner in 2019 to represent many security functionalities under one umbrella, focuses on security as a service, and there is network component responsible for bringing the traffic to the as a service part. Terms such as CASB, SWG/CSWG, ZTA/SDP. Firewall as a Service, IAM, SDWAN, DLP, DNS security, and many more
+#### SDWAN 
+SD-WAN is an acronym for software-defined networking in a wide area network. SD-WAN simplifies the management and operation of a WAN by decoupling the networking hardware from its control mechanism
+#### Secure Web Gateway 
+Network device that inspect user web traffic  that goes towards the internet
+
 ## U
 #### User-id
 User identification
