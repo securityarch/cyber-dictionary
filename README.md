@@ -173,6 +173,6 @@ Vulnerability assesment, done on the software source code or a binary to determi
 ## X
 #### x.509
 In cryptography, X.509 is a standard defining the format of public key certificates. X.509 certificates are used in many Internet protocols, including TLS/SSL, which is the basis for HTTPS, the secure protocol for browsing the web. They are also used in offline applications, like electronic signatures. RFC [2459](https://tools.ietf.org/html/rfc2459) [4158](https://tools.ietf.org/html/rfc4158) [5280](https://tools.ietf.org/html/rfc5280)
-## Z
-#### ZTNA
-Zero Trust Network Access (ZTNA) solutions, also referred to as a software-defined perimeter or SDP, are used to provide secure access to private applications without allowing users access to enterprise networks. They are often described as a replacement for traditional technologies like  SSL/IPSEC VPN, and introduce various methods of authentication to remain identity and context aware of users.
+## Z 
+#### ZTNA 
+Zero Trust Network Access (ZTNA) solutions, also referred to as a software-defined perimeter or SDP, are used to provide secure access to private applications without allowing users access to enterprise networks. They are often described as a replacement for traditional technologies like VPN, and introduce various methods of authentication to remain identity and context aware of users accessing enterprise applications. ZTNA solutions are available self-hosted, from the cloud and self-managed, or as fully managed services.
