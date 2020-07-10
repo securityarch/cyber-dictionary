@@ -41,8 +41,10 @@ Service that runs a remote browser and provides streaming or "read-only" type of
 ## E
 #### EDR
 Endpoint Detection and Response, is a technology used to detect malicious activity on the endpoints
+#### Entitlement (IAM)
+A permission (allowed action) and a scope that allowed action applies to (e.g. read files in folder, start a VM in a specific project)
 #### EPP
-Endpoint Protection Platform, most of the time refers to traditional Anti-Virus companies
+Endpoint Protection Platform, most of the time refers to traditional Anti-Virus companies or NGAV vendors
 ## D
 #### DC
 Domain Controller or Data Center
@@ -60,12 +62,18 @@ Google Cloud Platform, offered by Google, is a suite of cloud computing services
 #### GRC
 Governance, risk management and compliance (GRC) is the term covering an organization's approach across these three practices: Governance, Risk management, and Compliance.
 ## I
+#### IaaS
+Infrastructure as a Service
 #### IAM
-Identity and Access Management
+Identity and Access Management, a wide field covering things like IGA, SSO, PAM, MFA, IDM and others
+#### IAG
+Identity Access Governance, the practice of managing access granted to identities
 #### ICS
 Industrial Control Systems
 #### IDS
 Intrusion Detection System, technology used for detection of network threats, unable to prevent this threats but cable of sending alerts upon detection (passive)
+#### IGA
+Identity Governance and Administration, products used to govern and manage identities and their access (corase or granular)
 #### IGW
 Integrnet Gateway
 #### IIoT
@@ -104,6 +112,8 @@ Network Traffic Analysis/Network Behavior Analysis describe technologies that us
 #### Network TAP
 A network tap is a system that monitors events on a local network in order to aid administrators (or attackers) in analyzing the network.
 ## P
+#### PaaS
+Platform as a Service
 #### PAM
 Privileged Access Management is a type of password management used to secure the passwords for login IDs that have elevated security privileges.
 #### PaaS
