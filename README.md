@@ -4,11 +4,11 @@ A dictionary of cybersecurity solutions their naming conventions and abbreviatio
 Note: Some acronyms are not strictly cybersecurity but are related and essential in cybersecurity
 ## A
 #### Application Control
-NGFW technology to identify and then block/allow Internet applications
+Technology to identify and then block/allow Internet applications
 #### AWS 
-Amazon Web Services that provides Infrastructure as a service
+Amazon Web Services commonly referred to as AWS, is a cloud computing service, it provides software as a service, platform as a service and infrastructure as a service
 #### Azure
-Microsoft Azure, commonly referred to as Azure, is a cloud computing service, It provides software as a service, platform as a service and infrastructure as a service
+Microsoft Azure, commonly referred to as Azure, is a cloud computing service, it provides software as a service, platform as a service and infrastructure as a service
 #### Always On
 Tunneling all the traffic towards a gateway
 #### AV
@@ -16,81 +16,83 @@ Anti-Virus
 #### ATP
 Advanced Threat Protection
 #### API
-Application programming interface
+Application Programming Interface
 ## B
 #### Browser Isolation
-Service that runs a remote browser and provides streaming or "read-only" type service for the end-user, such capability isolating the user from any internet harm while browsing 
+Service that runs a remote browser and provides streaming or "read-only" type of service for the end-user, such capability is isolating the user from any internet harm while browsing 
 #### BYOD
 Bring your own device
 #### Bandwidth shaping
-Technology to control the amount of traffic to certain sites, mainly used to control streaming services to control or guarantee such services  
+Technology used to control the amount of traffic flowing between two network endpoints. 
 ## C
 #### CSWG
 Cloud Security Web Gateway
 #### CASB
 Cloud Access Security Broker
 #### CA
-Certification authority
+Certification Authority
 #### CSPM 
-Cloud Security Posture Management,technology to deisgn to help compaines to secure their IaaS configuraiton
+Cloud Security Posture Management is a process of continuous monitoring and improvement of the cloud system security.
 ## E
 #### EPP
 Endpoint Protection Platform, most of the time refers to traditional Anti-Virus companies
 #### EDR
-Endpoint detection and response, technology to detect malicious activity on the endpoint
+Endpoint Detection and Response, is a technology used to detect malicious activity on the endpoints
 ## D
 #### DoH (DNS over HTTPS)
-DoH works similarly to DNS, but HTTPS sessions keep the requests hidden and minimize the information exchanged during queries. Web browsers, like Mozilla's Firefox, Microsoft's Edge and Google's Chrome, all have the ability to use DoH with the goal of increasing data privacy and security for users.
+DoH is a standard DNS protocol that uses HTTPS transport to keep the DNS exchange data protected from eavesdropping. Web browsers, like Mozilla's Firefox, Microsoft's Edge and Google's Chrome, all have the ability to use DoH with the goal of increasing data privacy and security for the users.
 #### Data Classification
-Name for the process of organizing data into categories that make it is easy to retrieve, sort and store for future use. A well-planned data classification system makes essential data easy to find and retrieve.
+Process of organizing data into categories that make it is easy to retrieve, sort and store for future use. A well-planned data classification system makes essential data easy to find and retrieve.
 #### DNS
-Domain name Service
+Domain Name Service
 #### DLP
 Data Leak Prevention — Technology to stop data infiltration
 #### DC
 Domain Controller or Data Center
 ## G
 #### GRC
-Governance, risk management and compliance (GRC) is the term covering an organization's approach across these three practices: Governance, risk management, and compliance.
+Governance, risk management and compliance (GRC) is the term covering an organization's approach across these three practices: Governance, Risk management, and Compliance.
 #### GCP
 Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products
 ## I
+#### IGW
+Integrnet Gateway
 #### IoT
 Internet of Things
 #### IoMT
 Internet of Medical Things
 ####  IaaS 
-Infrastructure as a service are mainly public cloud services , such as AWS,AZURE, GCP
+Infrastructure as a service are mainly public cloud services, such as AWS,AZURE and GCP
 #### IPSEC
-Internet Protocol Security — Main technology to encrypt traffic between peers
+Internet Protocol Security — one of the technologies used for traffic encryption between peers
 #### IPS
-Intrusion Prevention System, active there is ability to take action  and block the intrusion
+Intrusion Prevention System, technology used for detection and prevention of network threats (active)
 #### IIoT
 Industrial Intrnet of Things
 #### IDS
-Intrusion Detection System, passive no ability to take action and block the intrusion only alerts
+Intrusion Detection System, technology used for detection of network threats, unable to prevent this threats but cable of sending alerts upon detection (passive)
 #### ICS
 Industrial Control Systems
 #### IAM
 Identity and Access Management
 ## M
 #### Malware
-Software intentionally designed to cause damage to a computer, server, client or computer network. A wide variety of types of malware exist, including computer viruses, worms, Trojan horses, ransomware, spyware, adware and more
+Software, designed to intentionally cause damage to a computer, server, client or computer network. A wide variety of Malware types exists, including computer viruses, worms, Trojan horses, ransomware, spyware, adware and more
 #### MUD
 Manufacturer Usage Descriptions, a file containing YANG-based JSON that describes a Thing and associated suggested specific network behavior. RFC [8520](https://tools.ietf.org/html/rfc8520)
 #### MFA
-Multi-factor Authentication
+Multi-Factor Authentication
 #### MDR
-Manage Detection and Response, in most of the cases refer to a company that provides manage services using endpoint or network based technology. Recently many cyber security vendors created their own MDR services  
+Managed Detection and Response is a managed security service providing threat intelligence, from incident detection and response to incident monitoring and analysis
 ## N
 #### NTA/NBA
-Network Traffic Analysis/ Network Behavior Analysis: Devices designed to monitor traffic via mirror port or via inline control and provide traffic analysis and user behavior based on network traffic 
+Network Traffic Analysis/Network Behavior Analysis describe technologies that use rule based analysis tools, machine learning, or other tools for suspicions network activity detection.
 #### NOC
 Network Operations Center, NOC is a central point for software distribution and updating, performance monitoring, coordination with affiliated networks, network troubleshooting, and router and domain name management.
 #### NIC
 Network Interface Card, Network Interface Controller, Network Adaptor
 #### NGFW
-Next-generation firewall (Application control, User-ID, Parallel traffic inspection)
+Next-Generation Firewall (Application control, User-ID, Parallel traffic inspection)
 #### NAC 
 Network access control is a method of enhancing the security of a private organizational network by restricting the availability of network resources to endpoint devices that comply with the organization’s security policy 
 ## P
@@ -101,12 +103,12 @@ My secret key that I can use to decrypt data that was sent to me encrypted with 
 #### PaaS
 Platform as a Service
 #### PAM 
-Privileged password management is a type of password management used to secure the passwords for login IDs that have elevated security privileges.
+Privileged Access Management is a type of password management used to secure the passwords for login IDs that have elevated security privileges.
 ## S
 #### Split tunneling
-Splitting of traffic between Remote gateway and Internet
+Splitting of traffic between corporate gateway and your standard internat gateway
 #### Sniffer
-Software or hardware solution to capture raw packets sent over wired or wireless networks
+Software or hardware solution to capture raw packets exchanged wired or wireless networks
 #### Sandboxing
 Technology to safety inspect potentially malicious files
 #### SaaS
@@ -114,35 +116,31 @@ Software as a Service
 #### SYSLOG
 Protocol to deliver logs to SIEM (port 514)
 #### SSO
-Single Sing On
+Single Sign On
 #### SSL inspection
-Technology to decrypt HTTPS traffic
+Technology for encrypted traffic inspection (SSL or TLS)
 #### SSL (deprecated)
 Secure Socket Layer v2(deprecated), v3(deprecated)
-#### SOC Tier 3
-N/A
-#### SOC Tier 2
-N/A
-#### SOC Tier 1
-N/A
 #### SOC
-Security Operationx Center, A security operations center is a centralized unit that deals with security issues on an organizational and technical level.
+Security Operations Center, A security operations center is a centralized unit that deals with security issues on an organizational and technical level.
 #### SOAR
 Security Orchestration, Automation and Response
 #### SLA
-Service level agreement
+Service Level Agreement
+#### SDP
+Software Defined Perimeter 
 #### SIEM
 Security information and event management
 #### SCA
-Software Composition Analisys
+Software Composition Analysis
 #### SBOM
-Software bill of materials, includes analisys of all the software running in the system, fingerprinting the files and libraries. Some of the SBOMs can include data about hardware, vulnerabilities, credentials, certificates, keys etc.
+Software bill of materials, includes analysis of all the software running on the system, fingerprinting the files and libraries. Some of the SBOMs can include data about hardware, vulnerabilities, credentials, certificates, keys etc.
 #### SASE
- Secure Access Service Edge, a term defined by Gartner in 2019 to represent many security functionalities under one umbrella, focuses on security as a service, and there is network component responsible for bringing the traffic to the as a service part. Terms such as CASB, SWG/CSWG, ZTA/SDP. Firewall as a Service, IAM, SDWAN, DLP, DNS security, and many more
+Secure Access Service Edge is a term defined by Gartner in 2019. This term represents collections of security functions under one umbrella. It focuses on security as a service. Terms such as CASB, SWG/CSWG, ZTA/SDP, Firewall as a Service, IAM, SDWAN, DLP, DNS security, and many more are all associated with SASE
 #### SDWAN 
-SD-WAN is an acronym for software-defined networking in a wide area network. SD-WAN simplifies the management and operation of a WAN by decoupling the networking hardware from its control mechanism
+SD-WAN is an acronym for software-defined networking in a wide area network. SD-WAN simplifies the management and operation of a WAN by decoupling the networking hardware from control pane
 #### Secure Web Gateway 
-Network device that inspect user web traffic  that goes towards the internet
+Network device that inspects user web traffic going towards the internet
 
 ## U
 #### User-id
@@ -156,23 +154,21 @@ User Behavior Analytics
 Technology to limit or prioritize certain traffic on the network
 #### TLS
 Transport Layer Security v1.0(phasing out), v1.1(phasing out), v1.2 (common), v1.3(emerging)
-#### TAP
-A device or method of duplicating network traffic going trough networking equipment without interfearing with the traffic
+#### Network TAP
+A network tap is a system that monitors events on a local network in order to aid administrators (or attackers) in analyzing the network.
 ## W
 #### WAF
 Web Application Firewall, a technology that designed to protect websites from malicious actors
 ## V
 #### VPN tunnels
-Term that used to describe a tunnel that connects peers using IPSEC technology
+Term that used to describe a tunnel created using IPSEC or TLS technologies
 #### VPN
 Virtual Private Network
-#### VMS
-N/A
 #### VA
-Vulnerability assesment, done on the software source code or a binary to determine vulnerabilites that can be affecting the software components, application or a whole firmware in case of embedded devices.
+Vulnerability assessment is done on the software source code or a binary file to determine vulnerabilities that can be affecting the software components, application or a whole firmware in case of embedded devices
 ## X
 #### x.509
-In cryptography, X.509 is a standard defining the format of public key certificates. X.509 certificates are used in many Internet protocols, including TLS/SSL, which is the basis for HTTPS, the secure protocol for browsing the web. They are also used in offline applications, like electronic signatures. RFC [2459](https://tools.ietf.org/html/rfc2459) [4158](https://tools.ietf.org/html/rfc4158) [5280](https://tools.ietf.org/html/rfc5280)
+In cryptography, X.509 is a standard defining the format of public key certificates. X.509 certificates are used in many Internet protocols, including TLS/SSL, which is the basis for HTTPS - the secure protocol for browsing the web. x.509 is also used for offline applications as electronic signatures. RFC [2459](https://tools.ietf.org/html/rfc2459) [4158](https://tools.ietf.org/html/rfc4158) [5280](https://tools.ietf.org/html/rfc5280)
 ## Z 
 #### ZTNA 
-Zero Trust Network Access (ZTNA) solutions, also referred to as a software-defined perimeter or SDP, are used to provide secure access to private applications without allowing users access to enterprise networks. They are often described as a replacement for traditional technologies like VPN, and introduce various methods of authentication to remain identity and context aware of users accessing enterprise applications. ZTNA solutions are available self-hosted, from the cloud and self-managed, or as fully managed services.
+Zero Trust Network Access (ZTNA) solutions, also referred to as a software-defined perimeter or SDP. ZTNA used to provide secure access to private applications without allowing users to access the whole enterprise network. They are often described as a replacement for traditional technologies like VPN, and introduce various methods of authentication to remain identity and context aware of users who are accessing enterprise applications. ZTNA solution types include self-hosted, from the cloud and self-managed or as and cloud fully managed.
