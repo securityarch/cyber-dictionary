@@ -41,10 +41,10 @@ Service that runs a remote browser and provides streaming or "read-only" type of
 ## E
 #### EDR
 Endpoint Detection and Response, is a technology used to detect malicious activity on the endpoints
-#### Entitlement (IAM)
-A permission (allowed action) and a scope that allowed action applies to (e.g. read files in folder, start a VM in a specific project)
 #### EPP
 Endpoint Protection Platform, most of the time refers to traditional Anti-Virus companies or NGAV vendors
+#### Entitlement (IAM)
+A permission (allowed action) and a scope that allowed action applies to (e.g. read files in folder, start a VM in a specific project)
 ## D
 #### DC
 Domain Controller or Data Center
@@ -62,12 +62,10 @@ Google Cloud Platform, offered by Google, is a suite of cloud computing services
 #### GRC
 Governance, risk management and compliance (GRC) is the term covering an organization's approach across these three practices: Governance, Risk management, and Compliance.
 ## I
-#### IaaS
-Infrastructure as a Service
-#### IAM
-Identity and Access Management, a wide field covering things like IGA, SSO, PAM, MFA, IDM and others
 #### IAG
 Identity Access Governance, the practice of managing access granted to identities
+#### IAM
+Identity and Access Management, a wide field covering things like IGA, SSO, PAM, MFA, IDM and others
 #### ICS
 Industrial Control Systems
 #### IDS
@@ -82,6 +80,8 @@ Industrial Intrnet of Things
 Intrusion Prevention System, technology used for detection and prevention of network threats (active)
 #### IPSEC
 Internet Protocol Security — one of the technologies used for traffic encryption between peers
+#### IaaS
+Infrastructure as a Service
 #### IoMT
 Internet of Medical Things
 #### IoT
@@ -101,6 +101,8 @@ Log Event Extended Format
 ## N
 #### NAC
 Network access control is a method of enhancing the security of a private organizational network by restricting the availability of network resources to endpoint devices that comply with the organization’s security policy
+#### NGAV
+Next Generation Anti Virus
 #### NGFW
 Next-Generation Firewall (Application control, User-ID, Parallel traffic inspection)
 #### NIC
@@ -112,10 +114,10 @@ Network Traffic Analysis/Network Behavior Analysis describe technologies that us
 #### Network TAP
 A network tap is a system that monitors events on a local network in order to aid administrators (or attackers) in analyzing the network.
 ## P
-#### PaaS
-Platform as a Service
 #### PAM
 Privileged Access Management is a type of password management used to secure the passwords for login IDs that have elevated security privileges.
+#### PaaS
+Platform as a Service
 #### PaaS
 Platform as a Service
 #### Private key
