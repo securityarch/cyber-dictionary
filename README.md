@@ -17,8 +17,8 @@ Tunneling all the traffic towards a gateway
 Technology to identify and then block/allow Internet applications
 #### Azure
 Microsoft Azure, commonly referred to as Azure, is a cloud computing service, it provides software as a service, platform as a service and infrastructure as a service
-##  
-####  IaaS
+## I
+#### IaaS
 Infrastructure as a service are mainly public cloud services, such as AWS,AZURE and GCP
 ## C
 #### CA
@@ -54,8 +54,8 @@ Data Leak Prevention — Technology to stop data infiltration
 Domain Name Service
 #### Data Classification
 Process of organizing data into categories that make it is easy to retrieve, sort and store for future use. A well-planned data classification system makes essential data easy to find and retrieve.
-#### DoH (DNS over HTTPS)
-DoH is a standard DNS protocol that uses HTTPS transport to keep the DNS exchange data protected from eavesdropping. Web browsers, like Mozilla's Firefox, Microsoft's Edge and Google's Chrome, all have the ability to use DoH with the goal of increasing data privacy and security for the users.
+#### DoH
+DoH stands for DNS over HTTPS and is a standard DNS protocol that uses HTTPS transport to keep the DNS exchange data protected from eavesdropping. Web browsers, like Mozilla's Firefox, Microsoft's Edge and Google's Chrome, all have the ability to use DoH with the goal of increasing data privacy and security for the users.
 ## G
 #### GCP
 Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products
@@ -109,10 +109,12 @@ Next-Generation Firewall (Application control, User-ID, Parallel traffic inspect
 Network Interface Card, Network Interface Controller, Network Adaptor
 #### NOC
 Network Operations Center, NOC is a central point for software distribution and updating, performance monitoring, coordination with affiliated networks, network troubleshooting, and router and domain name management.
-#### NTA/NBA
+#### NTA
 Network Traffic Analysis/Network Behavior Analysis describe technologies that use rule based analysis tools, machine learning, or other tools for suspicions network activity detection.
-#### Network TAP
-A network tap is a system that monitors events on a local network in order to aid administrators (or attackers) in analyzing the network.
+#### NBA
+Network Traffic Analysis/Network Behavior Analysis describe technologies that use rule based analysis tools, machine learning, or other tools for suspicions network activity detection.
+#### TAP
+A network TAP is a system that monitors events on a local network in order to aid administrators (or attackers) in analyzing the network.
 ## P
 #### PAM
 Privileged Access Management is a type of password management used to secure the passwords for login IDs that have elevated security privileges.
@@ -143,8 +145,8 @@ Service Level Agreement
 Security Orchestration, Automation and Response
 #### SOC
 Security Operations Center, A security operations center is a centralized unit that deals with security issues on an organizational and technical level.
-#### SSL (deprecated)
-Secure Socket Layer v2(deprecated), v3(deprecated)
+#### SSL
+Secure Socket Layer v2(deprecated), v3(deprecated) see TLS
 #### SSL inspection
 Technology for encrypted traffic inspection (SSL or TLS)
 #### SSO
@@ -155,7 +157,7 @@ Protocol to deliver logs to SIEM (port 514)
 Software as a Service
 #### Sandboxing
 Technology to safety inspect potentially malicious files
-#### Secure Web Gateway
+#### SWG
 Network device that inspects user web traffic going towards the internet
 #### Sniffer
 Software or hardware solution to capture raw packets exchanged wired or wireless networks
