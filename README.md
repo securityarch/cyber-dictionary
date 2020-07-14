@@ -17,9 +17,6 @@ Tunneling all the traffic towards a gateway
 Technology to identify and then block/allow Internet applications
 #### Azure
 Microsoft Azure, commonly referred to as Azure, is a cloud computing service, it provides software as a service, platform as a service and infrastructure as a service
-## I
-#### IaaS
-Infrastructure as a service are mainly public cloud services, such as AWS,AZURE and GCP
 ## C
 #### CA
 Certification Authority
@@ -81,6 +78,8 @@ Intrusion Prevention System, technology used for detection and prevention of net
 #### IPSEC
 Internet Protocol Security — one of the technologies used for traffic encryption between peers
 #### IaaS
+Infrastructure as a service are mainly public cloud services, such as AWS,AZURE and GCP
+#### IaaS
 Infrastructure as a Service
 #### IoMT
 Internet of Medical Things
@@ -101,6 +100,8 @@ Log Event Extended Format
 ## N
 #### NAC
 Network access control is a method of enhancing the security of a private organizational network by restricting the availability of network resources to endpoint devices that comply with the organization’s security policy
+#### NBA
+Network Traffic Analysis/Network Behavior Analysis describe technologies that use rule based analysis tools, machine learning, or other tools for suspicions network activity detection.
 #### NGAV
 Next Generation Anti Virus
 #### NGFW
@@ -111,10 +112,6 @@ Network Interface Card, Network Interface Controller, Network Adaptor
 Network Operations Center, NOC is a central point for software distribution and updating, performance monitoring, coordination with affiliated networks, network troubleshooting, and router and domain name management.
 #### NTA
 Network Traffic Analysis/Network Behavior Analysis describe technologies that use rule based analysis tools, machine learning, or other tools for suspicions network activity detection.
-#### NBA
-Network Traffic Analysis/Network Behavior Analysis describe technologies that use rule based analysis tools, machine learning, or other tools for suspicions network activity detection.
-#### TAP
-A network TAP is a system that monitors events on a local network in order to aid administrators (or attackers) in analyzing the network.
 ## P
 #### PAM
 Privileged Access Management is a type of password management used to secure the passwords for login IDs that have elevated security privileges.
@@ -151,14 +148,16 @@ Secure Socket Layer v2(deprecated), v3(deprecated) see TLS
 Technology for encrypted traffic inspection (SSL or TLS)
 #### SSO
 Single Sign On
+#### SWG
+Network device that inspects user web traffic going towards the internet
 #### SYSLOG
 Protocol to deliver logs to SIEM (port 514)
 #### SaaS
 Software as a Service
 #### Sandboxing
 Technology to safety inspect potentially malicious files
-#### SWG
-Network device that inspects user web traffic going towards the internet
+#### Security Theater
+Reffering to the practice of investing in countermeasures intended to provide the feeling of improved security while doing little or nothing to achieve it.
 #### Sniffer
 Software or hardware solution to capture raw packets exchanged wired or wireless networks
 #### Split tunneling
@@ -171,6 +170,8 @@ Security control to block malicious URLs or URL blocked by the company’s Polic
 #### User-id
 User identification
 ## T
+#### TAP
+A network TAP is a system that monitors events on a local network in order to aid administrators (or attackers) in analyzing the network.
 #### TLS
 Transport Layer Security v1.0(phasing out), v1.1(phasing out), v1.2 (common), v1.3(emerging)
 #### Traffic shaping
