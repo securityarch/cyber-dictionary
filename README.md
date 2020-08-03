@@ -46,7 +46,7 @@ A permission (allowed action) and a scope that allowed action applies to (e.g. r
 #### DC
 Domain Controller or Data Center
 #### DLP
-Data Leak Prevention — Technology to stop data infiltration
+Data Leak Prevention — Technology to stop data exfiltration
 #### DNS
 Domain Name Service
 #### Data Classification
@@ -68,17 +68,17 @@ Industrial Control Systems
 #### IDS
 Intrusion Detection System, technology used for detection of network threats, unable to prevent this threats but cable of sending alerts upon detection (passive)
 #### IGA
-Identity Governance and Administration, products used to govern and manage identities and their access (corase or granular)
+Identity Governance and Administration, products used to govern and manage identities and their access (coarse or granular)
 #### IGW
 Integrnet Gateway
 #### IIoT
-Industrial Intrnet of Things
+Industrial Internet of Things
 #### IPS
 Intrusion Prevention System, technology used for detection and prevention of network threats (active)
 #### IPSEC
 Internet Protocol Security — one of the technologies used for traffic encryption between peers
 #### IaaS
-Infrastructure as a service are mainly public cloud services, such as AWS,AZURE and GCP
+Infrastructure as a Service are mainly public cloud services, such as AWS,AZURE and GCP
 #### IaaS
 Infrastructure as a Service
 #### IoMT
@@ -115,8 +115,6 @@ Network Traffic Analysis/Network Behavior Analysis describe technologies that us
 ## P
 #### PAM
 Privileged Access Management is a type of password management used to secure the passwords for login IDs that have elevated security privileges.
-#### PaaS
-Platform as a Service
 #### PaaS
 Platform as a Service
 #### Private key
@@ -161,7 +159,7 @@ Reffering to the practice of investing in countermeasures intended to provide th
 #### Sniffer
 Software or hardware solution to capture raw packets exchanged wired or wireless networks
 #### Split tunneling
-Splitting of traffic between corporate gateway and your standard internat gateway
+Splitting of traffic between corporate gateway and your standard internet gateway
 ## U
 #### UBA
 User Behavior Analytics
