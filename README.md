@@ -18,6 +18,8 @@ Technology to identify and then block/allow Internet applications
 #### Azure
 Microsoft Azure, commonly referred to as Azure, is a cloud computing service, it provides software as a service, platform as a service and infrastructure as a service
 ## C
+#### C2
+Stands for Command and Control used by attackers to retain communications with compromised systems within a target network and submit commands for execution by the malware
 #### CA
 Certification Authority
 #### CASB
