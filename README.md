@@ -26,6 +26,8 @@ Certification Authority
 Cloud Access Security Broker
 #### CEF
 Common Event Format
+#### CI/CD
+A method to frequently deliver apps to customers by introducing automation into the stages of app development aka agile development. Specifically, CI/CD introduces ongoing automation and continuous monitoring throughout the lifecycle of apps, from integration and testing phases to delivery and deployment.
 #### CSPM
 Cloud Security Posture Management is a process of continuous monitoring and improvement of the cloud system security.
 #### CSWG
