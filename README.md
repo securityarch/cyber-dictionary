@@ -61,6 +61,9 @@ DoH stands for DNS over HTTPS and is a standard DNS protocol that uses HTTPS tra
 #### GCP
 Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products
 #### GRC
+## H
+#### HIDS
+Host IDS Intrusion Detection System
 Governance, risk management and compliance (GRC) is the term covering an organization's approach across these three practices: Governance, Risk management, and Compliance.
 ## I
 #### IAG
@@ -116,6 +119,8 @@ Network Interface Card, Network Interface Controller, Network Adaptor
 Network Operations Center, NOC is a central point for software distribution and updating, performance monitoring, coordination with affiliated networks, network troubleshooting, and router and domain name management.
 #### NTA
 Network Traffic Analysis/Network Behavior Analysis describe technologies that use rule based analysis tools, machine learning, or other tools for suspicions network activity detection.
+#### NIDS
+Network IDS (Intrusion Detection System)
 ## P
 #### PAM
 Privileged Access Management is a type of password management used to secure the passwords for login IDs that have elevated security privileges.
