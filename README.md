@@ -186,6 +186,8 @@ Technology to limit or prioritize certain traffic on the network
 ## W
 #### WAF
 Web Application Firewall, a technology that designed to protect websites from malicious actors
+#### WFH
+Work From Home
 ## V
 #### VA
 Vulnerability assessment is done on the software source code or a binary file to determine vulnerabilities that can be affecting the software components, application or a whole firmware in case of embedded devices
