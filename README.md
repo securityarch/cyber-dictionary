@@ -47,6 +47,8 @@ Endpoint Protection Platform, most of the time refers to traditional Anti-Virus 
 #### Entitlement (IAM)
 A permission (allowed action) and a scope that allowed action applies to (e.g. read files in folder, start a VM in a specific project)
 ## D
+#### DAST
+Dynamic Application Security Testing, demonstrates the attack and provides a proof of exploit for every risk uncovered
 #### DC
 Domain Controller or Data Center
 #### DLP
@@ -66,6 +68,8 @@ Google Cloud Platform, offered by Google, is a suite of cloud computing services
 Host IDS Intrusion Detection System
 Governance, risk management and compliance (GRC) is the term covering an organization's approach across these three practices: Governance, Risk management, and Compliance.
 ## I
+#### IAST
+Interactive Application Security Testing, analyzes code for security vulnerabilities while the app is run by an automated test, human tester, or any activity with the application functionality.
 #### IAG
 Identity Access Governance, the practice of managing access granted to identities
 #### IAM
@@ -130,7 +134,12 @@ Platform as a Service
 My secret key that I can use to decrypt data that was sent to me encrypted with the public key I shared with the world
 #### Public key
 Encryption key that can be shared with the world so they can encrypt data and send to me
+## R
+#### RASP
+Run-time Application Security Protection, works inside the application, but it is less a testing tool and more a security tool. It’s plugged into an application or its run­time environment and can control application execution.
 ## S
+#### SAST
+Static Application Security Testing, scans a project at the code level for vulnerabilities, which makes it easier for individual team members to make the changes recommended by the technology
 #### SASE
 Secure Access Service Edge is a term defined by Gartner in 2019. This term represents collections of security functions under one umbrella. It focuses on security as a service. Terms such as CASB, SWG/CSWG, ZTA/SDP, Firewall as a Service, IAM, SDWAN, DLP, DNS security, and many more are all associated with SASE
 #### SBOM
