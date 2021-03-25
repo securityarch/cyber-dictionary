@@ -146,6 +146,8 @@ Secure Access Service Edge is a term defined by Gartner in 2019. This term repre
 Software bill of materials, includes analysis of all the software running on the system, fingerprinting the files and libraries. Some of the SBOMs can include data about hardware, vulnerabilities, credentials, certificates, keys etc.
 #### SCA
 Software Composition Analysis
+#### SCAP
+Security Content Automation Protocol, is a method for using specific standards to enable automated vulnerability management, measurement, and policy compliance evaluation of systems deployed in an organization. An example of an implementation of SCAP is OpenSCAP.
 #### SDP
 Software Defined Perimeter
 #### SDWAN
