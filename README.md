@@ -17,6 +17,13 @@ Tunneling all the traffic towards a gateway
 Technology to identify and then block/allow Internet applications
 #### Azure
 Microsoft Azure, commonly referred to as Azure, is a cloud computing service, it provides software as a service, platform as a service and infrastructure as a service
+## B
+#### BYOD
+Bring your own device
+#### Bandwidth shaping
+Technology used to control the amount of traffic flowing between two network endpoints.
+#### Browser Isolation
+Service that runs a remote browser and provides streaming or "read-only" type of service for the end-user, such capability is isolating the user from any internet harm while browsing
 ## C
 #### C2
 Stands for Command and Control used by attackers to retain communications with compromised systems within a target network and submit commands for execution by the malware
@@ -32,20 +39,6 @@ A method to frequently deliver apps to customers by introducing automation into 
 Cloud Security Posture Management is a process of continuous monitoring and improvement of the cloud system security.
 #### CSWG
 Cloud Security Web Gateway
-## B
-#### BYOD
-Bring your own device
-#### Bandwidth shaping
-Technology used to control the amount of traffic flowing between two network endpoints.
-#### Browser Isolation
-Service that runs a remote browser and provides streaming or "read-only" type of service for the end-user, such capability is isolating the user from any internet harm while browsing
-## E
-#### EDR
-Endpoint Detection and Response, is a technology used to detect malicious activity on the endpoints
-#### EPP
-Endpoint Protection Platform, most of the time refers to traditional Anti-Virus companies or NGAV vendors
-#### Entitlement (IAM)
-A permission (allowed action) and a scope that allowed action applies to (e.g. read files in folder, start a VM in a specific project)
 ## D
 #### DAST
 Dynamic Application Security Testing, demonstrates the attack and provides a proof of exploit for every risk uncovered
@@ -59,14 +52,22 @@ Domain Name Service
 Process of organizing data into categories that make it is easy to retrieve, sort and store for future use. A well-planned data classification system makes essential data easy to find and retrieve.
 #### DoH
 DoH stands for DNS over HTTPS and is a standard DNS protocol that uses HTTPS transport to keep the DNS exchange data protected from eavesdropping. Web browsers, like Mozilla's Firefox, Microsoft's Edge and Google's Chrome, all have the ability to use DoH with the goal of increasing data privacy and security for the users.
+## E
+#### EDR
+Endpoint Detection and Response is a technology used to detect malicious activity on the endpoints
+#### EPP
+Endpoint Protection Platform, most of the time refers to traditional Anti-Virus companies or NGAV vendors
+#### Entitlement (IAM)
+A permission (allowed action) and a scope that allowed action applies to (e.g. read files in folder, start a VM in a specific project)
+## F
 ## G
 #### GCP
 Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products
 #### GRC
+Governance, risk management and compliance (GRC) is the term covering an organization's approach across these three practices: Governance, Risk management, and Compliance.
 ## H
 #### HIDS
 Host IDS Intrusion Detection System
-Governance, risk management and compliance (GRC) is the term covering an organization's approach across these three practices: Governance, Risk management, and Compliance.
 ## I
 #### IAST
 Interactive Application Security Testing, analyzes code for security vulnerabilities while the app is run by an automated test, human tester, or any activity with the application functionality.
@@ -77,7 +78,7 @@ Identity and Access Management, a wide field covering things like IGA, SSO, PAM,
 #### ICS
 Industrial Control Systems
 #### IDS
-Intrusion Detection System, technology used for detection of network threats, unable to prevent this threats but cable of sending alerts upon detection (passive)
+Intrusion Detection System, technology used for detection of network threats, unable to prevent these threats but capable of sending alerts upon detection (passive)
 #### IGA
 Identity Governance and Administration, products used to govern and manage identities and their access (coarse or granular)
 #### IGW
@@ -89,13 +90,18 @@ Intrusion Prevention System, technology used for detection and prevention of net
 #### IPSEC
 Internet Protocol Security — one of the technologies used for traffic encryption between peers
 #### IaaS
-Infrastructure as a Service are mainly public cloud services, such as AWS,AZURE and GCP
+Infrastructure as a Service are mainly public cloud services, such as AWS, Azure and GCP
 #### IaaS
 Infrastructure as a Service
 #### IoMT
 Internet of Medical Things
 #### IoT
 Internet of Things
+## J
+## K
+## L
+#### LEEF
+Log Event Extended Format
 ## M
 #### MDR
 Managed Detection and Response is a managed security service providing threat intelligence, from incident detection and response to incident monitoring and analysis
@@ -105,26 +111,26 @@ Multi-Factor Authentication
 Manufacturer Usage Descriptions, a file containing YANG-based JSON that describes a Thing and associated suggested specific network behavior. RFC [8520](https://tools.ietf.org/html/rfc8520)
 #### Malware
 Software, designed to intentionally cause damage to a computer, server, client or computer network. A wide variety of Malware types exists, including computer viruses, worms, Trojan horses, ransomware, spyware, adware and more
-## L
-#### LEEF
-Log Event Extended Format
 ## N
 #### NAC
 Network access control is a method of enhancing the security of a private organizational network by restricting the availability of network resources to endpoint devices that comply with the organization’s security policy
 #### NBA
 Network Traffic Analysis/Network Behavior Analysis describe technologies that use rule based analysis tools, machine learning, or other tools for suspicions network activity detection.
+#### NDR
+Network Detection and Response 
 #### NGAV
 Next Generation Anti Virus
 #### NGFW
 Next-Generation Firewall (Application control, User-ID, Parallel traffic inspection)
 #### NIC
 Network Interface Card, Network Interface Controller, Network Adaptor
+#### NIDS
+Network IDS (Intrusion Detection System)
 #### NOC
 Network Operations Center, NOC is a central point for software distribution and updating, performance monitoring, coordination with affiliated networks, network troubleshooting, and router and domain name management.
 #### NTA
 Network Traffic Analysis/Network Behavior Analysis describe technologies that use rule based analysis tools, machine learning, or other tools for suspicions network activity detection.
-#### NIDS
-Network IDS (Intrusion Detection System)
+## O
 ## P
 #### PAM
 Privileged Access Management is a type of password management used to secure the passwords for login IDs that have elevated security privileges.
@@ -134,6 +140,7 @@ Platform as a Service
 My secret key that I can use to decrypt data that was sent to me encrypted with the public key I shared with the world
 #### Public key
 Encryption key that can be shared with the world so they can encrypt data and send to me
+## Q
 ## R
 #### RASP
 Run-time Application Security Protection, works inside the application, but it is less a testing tool and more a security tool. It’s plugged into an application or its run­time environment and can control application execution.
@@ -180,13 +187,6 @@ Reffering to the practice of investing in countermeasures intended to provide th
 Software or hardware solution to capture raw packets exchanged wired or wireless networks
 #### Split tunneling
 Splitting of traffic between corporate gateway and your standard internet gateway
-## U
-#### UBA
-User Behavior Analytics
-#### URL Filtering
-Security control to block malicious URLs or URL blocked by the company’s Policy
-#### User-id
-User identification
 ## T
 #### TAP
 A network TAP is a system that monitors events on a local network in order to aid administrators (or attackers) in analyzing the network.
@@ -194,11 +194,13 @@ A network TAP is a system that monitors events on a local network in order to ai
 Transport Layer Security v1.0(phasing out), v1.1(phasing out), v1.2 (common), v1.3(emerging)
 #### Traffic shaping
 Technology to limit or prioritize certain traffic on the network
-## W
-#### WAF
-Web Application Firewall, a technology that designed to protect websites from malicious actors
-#### WFH
-Work From Home
+## U
+#### UBA
+User Behavior Analytics
+#### URL Filtering
+Security control to block malicious URLs or URL blocked by the company’s Policy
+#### User-id
+User identification
 ## V
 #### VA
 Vulnerability assessment is done on the software source code or a binary file to determine vulnerabilities that can be affecting the software components, application or a whole firmware in case of embedded devices
@@ -206,9 +208,17 @@ Vulnerability assessment is done on the software source code or a binary file to
 Virtual Private Network
 #### VPN tunnels
 Term that used to describe a tunnel created using IPSEC or TLS technologies
+## W
+#### WAF
+Web Application Firewall, a technology that designed to protect websites from malicious actors
+#### WFH
+Work From Home
 ## X
 #### x.509
 In cryptography, X.509 is a standard defining the format of public key certificates. X.509 certificates are used in many Internet protocols, including TLS/SSL, which is the basis for HTTPS - the secure protocol for browsing the web. x.509 is also used for offline applications as electronic signatures. RFC [2459](https://tools.ietf.org/html/rfc2459) [4158](https://tools.ietf.org/html/rfc4158) [5280](https://tools.ietf.org/html/rfc5280)
+#### XDR
+Extended Detection and Response combines NDR and EDR in a single solution
+## Y
 ## Z
 #### ZTNA
 Zero Trust Network Access (ZTNA) solutions, also referred to as a software-defined perimeter or SDP. ZTNA used to provide secure access to private applications without allowing users to access the whole enterprise network. They are often described as a replacement for traditional technologies like VPN, and introduce various methods of authentication to remain identity and context aware of users who are accessing enterprise applications. ZTNA solution types include self-hosted, from the cloud and self-managed or as and cloud fully managed.
